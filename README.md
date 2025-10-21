@@ -1,5 +1,5 @@
 ## Olá! Eu sou a Yasmin Santos, Desenvolvedora Full Stack e IA
-- Atualmente trabalho como desenvolvedora de Realidade Aumentada e AI.
+- Atualmente trabalho como desenvolvedora de IA E FullStack.
 - Linkedin: https://www.linkedin.com/in/yasmin-santos-042678254
 - Estudando Spring Boot, IA, Angular
 <div style="display: inline_block"><br>
